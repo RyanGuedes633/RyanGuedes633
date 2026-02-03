@@ -5,13 +5,6 @@
 Me chamo Ryan Guedes, tenho 23 anos e atuo desde os 18 anos na área de tecnologia. Possuo experiência em fábrica de software, onde atuei no desenvolvimento de interfaces web responsivas, com foco em usabilidade e experiência do usuário, além da implementação de funcionalidades utilizando React para tornar as aplicações mais interativas e dinâmicas. Atualmente, curso Sistemas para Internet na UNIPÊ, com foco em desenvolvimento web e constante evolução técnica.
 
 <p align="left">
-    <a href="https://github.com/RyanGuedes633?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/RyanGuedes633?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/RyanGuedes633?tab=followers">
         <img 
             alt="Seguidores" 
