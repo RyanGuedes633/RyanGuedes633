@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2F+Node.js;Sempre+aprendendo+mais](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ryan+Guedes)](https://git.io/typing-svg)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2F+Node.js;Sempre+aprendendo+mais](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ryan+Guedes" />
 </div>
 
 **`Desenvolvedor FullStack`**
