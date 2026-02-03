@@ -15,6 +15,17 @@ Me chamo Ryan Guedes, tenho 23 anos e atuo desde os 18 anos na área de tecnolog
         />
     </a>
 </p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><a href="https://www.instagram.com/ryannr03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ryan-guedes-70b597213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    <td align="center"><a href="https://discord.com/users/761371307606540328" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a></td>
+    <td align="center"><a href="https://github.com/RyanGuedes633?tab=followers"><img alt="Seguidores" title="Me siga no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/RyanGuedes633?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a></td>
+  </tr>
+</table>
+</div>
 
 ---
 
