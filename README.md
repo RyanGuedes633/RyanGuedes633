@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ryan Guedes, tenho 23 anos e atuo desde os 18 anos na área de tecnologia. Possuo experiência em fábrica de software, onde atuei no desenvolvimento de interfaces web responsivas, com foco em usabilidade e experiência do usuário, além da implementação de funcionalidades utilizando React para tornar as aplicações mais interativas e dinâmicas. Atualmente, curso Sistemas para Internet na UNIPÊ, com foco em desenvolvimento web e constante evolução técnica.
+Me chamo Ryan Guedes, tenho 23 anos e atuo desde os 18 anos na área de tecnologia. Possuo experiência em fábrica de software, onde atuei no desenvolvimento de interfaces web responsivas, com foco em usabilidade e experiência do usuário, além da implementação de funcionalidades utilizando React para tornar as aplicações mais interativas e dinâmicas. Atualmente, sou formado em Sistemas para Internet, com foco em desenvolvimento web e constante evolução técnica.
 
 <div align="center">
 <table>
